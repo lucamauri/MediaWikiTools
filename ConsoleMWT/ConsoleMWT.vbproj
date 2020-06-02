@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>LucaMauri.Open.ConsoleMWT</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon>MW.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="MW.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="MW.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CSVTabler\CSVTabler.vbproj" />
+    <ProjectReference Include="..\MWTCore\MWTCore.vbproj" />
+  </ItemGroup>
+
+</Project>

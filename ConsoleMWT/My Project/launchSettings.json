@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleMWT": {
+      "commandName": "Project",
+      "commandLineArgs": "siw H:\\pCloud\\Docs\\WikiTrek\\DO2020\\masterSitesTest.csv true |"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>LucaMauri.Open.CSVTabler</RootNamespace>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Luca Mauri</Authors>
+    <Company>Luca Mauri Open Source</Company>
+    <PackageId>OpenLM-CSVTabler</PackageId>
+    <AssemblyVersion>0.9.1.0</AssemblyVersion>
+    <FileVersion>0.9.1.0</FileVersion>
+    <Version>0.9.1</Version>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
+    <PackageTags>CSV, text file</PackageTags>
+  </PropertyGroup>
+</Project>
